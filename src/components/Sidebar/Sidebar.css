@@ -1,17 +1,17 @@
 .sidebar {
     background: #fff;
-    width: 15%;
+    width: 12%;
     height: 100vh;
     position: fixed;
     top: 0;
-    padding-left: 2%;
+    padding-left: 1%;
     padding-top: 90px;
 
 }
 
 .shortcut-links img {
     width: 20px;
-    margin-right: 20px;
+    margin-right: 10px;
 
 }
 
